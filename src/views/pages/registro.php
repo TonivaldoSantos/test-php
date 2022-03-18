@@ -26,8 +26,8 @@
           </span> <input type="email" name="registerEmail" id="registerEmail" placeholder="Seu melhor email" required> 
         </div>
         <div class="form-field d-flex align-items-center"> 
-            <span class="fas fa-key"></span> <input type="password" name="password" id="pwd" placeholder="Senha" required> </div>
-        <div class="form-field d-flex align-items-center"> <span class="fas fa-key"></span> <input type="password" name="password" id="pwd" placeholder="Confirmar Senha" required> </div>
+            <span class="fas fa-key"></span> <input type="password" name="password1" id="pwd" placeholder="Senha" required> </div>
+        <div class="form-field d-flex align-items-center"> <span class="fas fa-key"></span> <input type="password" name="password2" id="pwd" placeholder="Confirmar Senha" required> </div>
         
         <button class="btn mt-3">Criar conta</button>
         
